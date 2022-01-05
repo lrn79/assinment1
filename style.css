@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-heading{
+    font-size: 40px;
+    border-left: 4px solid;
+    padding-left: 30px;
+    border-image-slice: 1;
+}
+.flexible-body{
+    display: flex;
+    margin-bottom: 100px;
+}
+span{
+    color: green;
+}
+.first-width-half{
+    width: 50%;
+    padding-left:8%;
+    padding-top: 5%;
+}
+.first-width-half img{
+    width: 60%;
+}
+.MY-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(8, 255, 8),rgb(9, 63, 9));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.creat-gap{
+    margin-top:60px;
+    font-weight: 200px;
+    
+}
+
+
