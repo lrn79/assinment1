@@ -1,6 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+section
+{
+    height: 500px;
+    padding-bottom: 70px;
+}
 
 .first-heading{
     font-size: 40px;
@@ -37,7 +42,7 @@ span{
     font-weight: 200px;
     
 }
-h2{
+.misson{
     font-size: 50px;
     text-align: center;
     font-weight: 700px;
@@ -82,8 +87,39 @@ h3{
     background-color: rgb(192, 240, 255);
 }
 
+#for-left{
+    margin-left: 20px
+}
 
+.devided-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
 
+.first-text{
+    font-weight:400 px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    text-align: justify;
+    font-family:'poppins';
+ 
+}
+.mid-image{
+    background: url("pictures/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+button{
+    width: 172px;  
+   height: 48px;
+   color: white;
+   background: rgb(9, 255, 0);
+   border-radius: 5px;
+   font-size:20PX
+   }
 
 
 
