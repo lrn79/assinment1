@@ -20,7 +20,7 @@ section
     margin-bottom: 100px;
 }
 span{
-    color: rgb(0, 255, 0);
+    color: rgb(112, 32, 241);
 }
 .first-width-half{
     width: 50%;
@@ -123,7 +123,7 @@ button{
    }
 
 #bonas_header{
-    color: chartreuse;
+    color: rgb(11, 136, 238);
 
    }
 .wanna_learn{
