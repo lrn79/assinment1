@@ -11,7 +11,7 @@ section
     font-size: 40px;
     border-left: 4px solid rgb(14, 255, 14);
     padding-left: 30px;
-    line-height: 40px;
+    line-height: 50px;
     border-image-slice: 1;
 }
 .flexible-body{
@@ -78,7 +78,7 @@ h3{
     border-radius: 20px;
     padding-bottom: 1%;
     padding-top: 3%;
-    background-color: rgb(240, 170, 178);
+    background-color: rgb(240, 250, 103);
 }
 #for-box3{
     border-radius: 20px;
@@ -113,7 +113,7 @@ h3{
 }
 
 button{
-    width: 172px;  
+   width: 172px;  
    height: 48px;
    color: white;
    background: rgb(9, 255, 0);
@@ -121,6 +121,51 @@ button{
    font-size:20PX
    }
 
+#bonas_header{
+    color: chartreuse;
+
+   }
+.wanna_learn{
+    font-size: 30px;
+    font-style:oblique;
+    color: rgb(30, 67, 78);
+    font-weight: 800;
+    margin-left: 10%;
+   }
+#bg_img{
+    background: url("illustrators/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bg-image{
+    background: url("illustrators/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.footer_start{
+    color: white;
+}
+.footer_year{
+    color: rgb(4, 255, 4);
+    
+}
+footer{
+    margin-top:100px;
+    background-color:black;
+    height:200px;
+    font-family:'Yeseva One'; 
+    }
+footer h2{
+    text-align: center;
+    padding-top:40px;
+    font-size:50px;
+    font-style: italic;
+    }
+footer p{
+    color: white;
+    text-align: center;
+}
 
 
 
