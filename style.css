@@ -4,8 +4,9 @@ body{
 
 .first-heading{
     font-size: 40px;
-    border-left: 4px solid;
+    border-left: 4px solid rgb(14, 255, 14);
     padding-left: 30px;
+    line-height: 40px;
     border-image-slice: 1;
 }
 .flexible-body{
@@ -13,7 +14,7 @@ body{
     margin-bottom: 100px;
 }
 span{
-    color: green;
+    color: rgb(0, 255, 0);
 }
 .first-width-half{
     width: 50%;
@@ -36,5 +37,70 @@ span{
     font-weight: 200px;
     
 }
+h2{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700px;
+}
+.creat-box{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.box-text{
+    text-align: justify;
+    padding-right: 5%;
+    font-family: 'poppins';
+}
+.box-image{
+    height:15%;
+    width:40%
+}
+h3{
+    font-size: 30px;
+}
+
+#for-box1{
+    border-radius: 20px;
+    padding-bottom: 1%;
+    padding-top: 3%;
+    background-color: rgb(205, 248, 210);
+}
+
+#for-box2{
+    
+    border-radius: 20px;
+    padding-bottom: 1%;
+    padding-top: 3%;
+    background-color: rgb(240, 170, 178);
+}
+#for-box3{
+    border-radius: 20px;
+    padding-bottom: 1%;
+    padding-top: 3%;
+    background-color: rgb(192, 240, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
